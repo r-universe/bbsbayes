@@ -13,7 +13,7 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
-	branch = *release
+	branch = v0.5.3
 	registered = true
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
