@@ -1,5 +1,13 @@
 [
   {
-    "package": "bbsBayes2"
+    "package": "bbsBayes2",
+    "releasetag": true
+  },
+  {
+    "package": "cmdstanr",
+    "releasetag": true
+  },
+  {
+    "package": "rnaturalearthhires"
   }
 ]
