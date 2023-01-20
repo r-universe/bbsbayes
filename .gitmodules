@@ -7,7 +7,6 @@
 	path = bbsBayes2
 	url = https://github.com/bbsBayes/bbsBayes2
 	shallow = true
-	branch = *release
 	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr

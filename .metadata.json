@@ -1,7 +1,6 @@
 [
   {
-    "package": "bbsBayes2",
-    "releasetag": true
+    "package": "bbsBayes2"
   },
   {
     "package": "cmdstanr",
