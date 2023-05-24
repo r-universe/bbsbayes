@@ -1,12 +1,6 @@
 [
   {
-    "package": "bbsBayes2"
-  },
-  {
     "package": "cmdstanr",
     "releasetag": true
-  },
-  {
-    "package": "rnaturalearthhires"
   }
 ]
