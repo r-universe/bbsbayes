@@ -1,21 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/bbsbayes/universe
-	shallow = true
 	branch = HEAD
 [submodule "bbsBayes2"]
 	path = bbsBayes2
 	url = https://github.com/bbsBayes/bbsBayes2
-	shallow = true
-	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
 	branch = v0.5.3
-	registered = true
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
-	shallow = true
-	registered = true
