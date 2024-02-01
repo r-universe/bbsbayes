@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bbsbayes/universe
+	url = https://github.com/bbsbayes/bbsbayes.r-universe.dev
 	branch = HEAD
 [submodule "bbsBayes2"]
 	path = bbsBayes2
